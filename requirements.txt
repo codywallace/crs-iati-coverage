@@ -1,0 +1,7 @@
+requests
+pandas
+python-dotenv
+requests
+pandas
+python-dotenv
+noteql==0.7.4
