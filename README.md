@@ -26,3 +26,9 @@ This repository helps quantify and visualize those differences to support interp
 2. Install requirements.txt
 3. Launch Jupyter and run **IATI and CRS.ipynb**
 
+## Data sources and references
+
+- OECD DAC Creditor Reporting System (CRS)
+- International Aid Transparency Initiative (IATI) data
+- Global Partnership for Effective Development Co-operation (GPEDC) monitoring framework
+- Open Data Service Cooperative: https://deepnote.com/workspace/Open-Data-Services-Cooperative-46a54078-1c9e-4c25-b08c-69c3957de83a/project/Flow-Type
